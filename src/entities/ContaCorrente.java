@@ -1,7 +1,6 @@
 package entities;
 
-import model.entities.Autenticar;
-import model.entities.Conta;
+import interfaces.Autenticar;
 
 public class ContaCorrente extends Conta implements Autenticar {
 	

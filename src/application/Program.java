@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import entities.Conta;
 import entities.ContaCorrente;
 import entities.ContaPoupanca;
-import model.entities.Conta;
 
 public class Program {
 	

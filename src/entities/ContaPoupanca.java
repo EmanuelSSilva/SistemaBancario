@@ -1,7 +1,5 @@
 package entities;
 
-import model.entities.Conta;
-
 public class ContaPoupanca extends Conta {
 
 	
