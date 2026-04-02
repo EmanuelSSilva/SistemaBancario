@@ -45,28 +45,28 @@ O principal objetivo é demonstrar domínio em:
 
 ## 🛠️ Estrutura do Projeto
 ### 
-src/
-├── entities/
-│ ├── Conta.java
-│ ├── ContaCorrente.java
-│ ├── ContaPoupanca.java
-│
-├── interfaces/
-│ └── Autenticavel.java
-│
-└── application/
-└── Program.java
+- src/
+- ├── entities/
+- │ ├── Conta.java
+- │ ├── ContaCorrente.java
+- │ ├── ContaPoupanca.java
+- │
+- ├── interfaces/
+- │ └── Autenticavel.java
+- │
+- └── application/
+- └── Program.java
 
 
 ---
 
 ###  
-1 - Criar Conta
-2 - Listar Contas
-3 - Depositar
-4 - Sacar
-5 - Transferir
-0 - Sair
+- 1 - Criar Conta
+- 2 - Listar Contas
+- 3 - Depositar
+- 4 - Sacar
+- 5 - Transferir
+- 0 - Sair
 
 ---
 
