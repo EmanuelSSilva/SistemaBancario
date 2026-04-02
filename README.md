@@ -44,6 +44,7 @@ O principal objetivo é demonstrar domínio em:
 ---
 
 ## 🛠️ Estrutura do Projeto
+### 
 src/
 ├── entities/
 │ ├── Conta.java
@@ -58,6 +59,8 @@ src/
 
 
 ---
+
+###  
 1 - Criar Conta
 2 - Listar Contas
 3 - Depositar
@@ -65,13 +68,15 @@ src/
 5 - Transferir
 0 - Sair
 
-💡 Regras de Negócio
+---
+
+### 💡 Regras de Negócio
 Conta Corrente possui taxa no saque
 Conta Poupança não possui taxa
 O saldo não pode ser alterado diretamente (encapsulamento)
 Transferências utilizam métodos controlados
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 
 Emanuel Silva
 Desenvolvedor em formação, focado em backend Java e construção de sistemas com boas práticas.
